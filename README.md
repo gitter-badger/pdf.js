@@ -1,4 +1,5 @@
 # PDF.js
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/miltonpereira/pdf.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
 
